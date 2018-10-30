@@ -1,6 +1,6 @@
 # Longitudinal_Mediation
 
-For a simulation study, run Sim_Out.R, Sim_Med.R, Sim_Cov.R
+For a simulation study, run the following 3 files
 ```
 Sim_Out.R
 Sim_Med.R
