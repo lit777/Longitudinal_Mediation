@@ -1,6 +1,6 @@
 # Longitudinal_Mediation
 
-For the simulation study (e.g., Case 1), run the following 3 files
+For the simulation study (e.g., Case 1), run the following 3 files in parallel on the cluster
 ```
 Sim_Out.R
 Sim_Med.R
